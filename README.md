@@ -1,4 +1,4 @@
-# 🌉 Building Bridges rn
+# 🌉 Building Bridges
 😁 - Rhuan Santos Wolfgramm
 
 🇧🇷 - Espírito Santo, Vitória
