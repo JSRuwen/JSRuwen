@@ -5,13 +5,16 @@
 
 📚 - graduating in Computer Science
 
-<img width="10vw" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
 ## 📚 Knowledge in
 ```
 HTML; CSS; JAVASCRIPT and PYTHON
 ```
-## 🕓 Recently Used Languages
+<div align="center">
+<img width="30vw" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img width="30vw" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img width="30vw" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  <img width="30vw" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"> <img width="30vw" src="https://godotengine.org/assets/press/icon_color.svg"> <img width="30vw" src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000">
+</div>
+
+## 
 <div>
 <a href="https://github.com/JSRuwen">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSRuwen&layout=compact&langs_count=7&theme=dracula"/>
