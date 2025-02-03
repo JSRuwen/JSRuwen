@@ -3,6 +3,8 @@
 
 🇧🇷 - Espírito Santo, Vitória
 
+📚 - graduating in Computer Science
+
 ## 📚 Knowledge in
 ```
 HTML; CSS; JAVASCRIPT and PYTHON
