@@ -8,7 +8,7 @@
 
 ## 📚 Knowledge in
 ```
-HTML; CSS; JAVASCRIPT; SQL and PYTHON
+Java; HTML; CSS; JAVASCRIPT; SQL and PYTHON
 ```
 
 <div align="center">
